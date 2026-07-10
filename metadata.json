@@ -1,0 +1,6 @@
+{
+  "name": "SplitReceipt Free",
+  "description": "An AI-powered receipt scanner and bill splitter. Simply snap a photo of your receipt and split items instantly with friends. No sign-up, no ads, 100% secure offline-first storage.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
